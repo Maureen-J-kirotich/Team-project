@@ -40,7 +40,7 @@ button:hover {
 }
 .imgcontainer {
   text-align: center;
-  margin: 24px 0 20px 0;
+  margin: 24px 0px 20px 0;
   position: relative;
 }
 .container {
@@ -60,10 +60,10 @@ button:hover {
 }
 .modal-content {
   background-color: #fefefe;
-  margin: 10% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
   border: 1px solid #888;
   width: 70%; /* Could be more or less, depending on screen size */
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 /* The Close Button (x) */
